@@ -4,3 +4,7 @@ Informacion Oculta -Ninja!!
 Tchau
 
 --Osito Feliz
+=======
+No se que poner aqui xd
+Esto sera suficiente
+>>>>>>> conflictos_git
